@@ -25,8 +25,6 @@ This repository is mainly divided into two parts: `notes` and `codes`.
 |Title                              |Python                        |Julia |Matlab |
 |:----------------------------------|:-----------------------------|:-----|:------|
 | The Monte Carlo Simultion   |`monte_carlo_simulation.ipynb` |||
-| The Ramsey-Cass-Koopmans Model    |`ramsey_cass_koomans.ipynb`   |||
-| The Overlapping Generations Model |`overlapping_generations.ipynb`|||
 
 
 ## References
