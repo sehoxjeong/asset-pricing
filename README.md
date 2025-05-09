@@ -41,7 +41,7 @@ List of references are listed below:
 
 ### Textbooks
 
-- To be updated.
+- Lewinson, Eryk. 2020. "Python for Finance Cookbook." Packt Publishing.
 
 ### Articles
 
