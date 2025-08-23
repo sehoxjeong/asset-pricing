@@ -7,14 +7,14 @@ Welcome to my **"asset pricing"** repository!
 
 This repository contains notes and codes on asset pricing.
 
-All errors are my own.
+This repository is updated continuously. All errors are my own.
 
 ## Contents
 
 This repository is mainly divided into two parts: `notes` and `codes`.
 
 - `notes` include course notes on various topics in macroeconomic theory.
-- `codes` include programming codes that solve various macroeconomic models.
+- `codes` include programming codes that implements finance models and methods.
 
 ### Notes
 
@@ -22,9 +22,7 @@ This repository is mainly divided into two parts: `notes` and `codes`.
 
 ### Codes
 
-|Title                              |Python                        |Julia |Matlab |
-|:----------------------------------|:-----------------------------|:-----|:------|
-| The Monte Carlo Simultion   |`monte_carlo_simulation.ipynb` |||
+- Collecting and Processing Financial Data
 
 
 ## References
